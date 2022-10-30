@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qimae&label=Profile%20views&color=0e75b6&style=flat" alt="qimae" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m a graduate **Software Engineer**
 
-- 💬 Ask me about **Javascript, CSS, HTML**
+- 💬 Ask me about **ReactJs, Javascript, CSS, HTML**
 
 - 📫 How to reach me **kimaekahindi@yahoo.com**
 
