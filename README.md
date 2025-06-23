@@ -1,8 +1,5 @@
-<img src="https://miro.medium.com/max/1400/1*pp2iGfMSCnKiJQZ7ng2SlQ.gif" width="100%" height="400px">
-
 <h1 align="center">Hi 👋, I'm Kimae Ngowa</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
-<img src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655f624d41706c4c6d354e4c68512e676966" width="100%" height="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qimae&label=Profile%20views&color=0e75b6&style=flat" alt="qimae" /> </p>
 
